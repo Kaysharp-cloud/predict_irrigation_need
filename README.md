@@ -35,15 +35,7 @@ data/
 README.md
 ```
 
-## Dataset
 
-Source: Kaggle dataset `miadul/irrigation-water-requirement-prediction-dataset`
-
-The dataset is included locally at:
-
-```text
-data/irrigation_prediction.csv
-```
 
 ## How to Run
 
